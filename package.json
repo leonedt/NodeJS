@@ -1,0 +1,21 @@
+{
+  "name": "nodefilesreyesbalam",
+  "version": "10.15.3",
+  "description": "Simple Web app",
+  "main": "pages.js",
+  "scripts": {
+    "start": "node pages.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonedt/NodeJS.git"
+  },
+  "author": "Leonedt Balam Reyes Salvador",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonedt/NodeJS/issues"
+  },
+  "homepage": "https://github.com/leonedt/NodeJS#readme"
+}
